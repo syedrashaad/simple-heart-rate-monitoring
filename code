@@ -6,8 +6,8 @@
 const char* ssid = "RASHAAD01"; // your wifi name 
 const char* password = "rashaad2208"; // your wifi password
 WiFiClient client;
-const int channelID = 900012;
-String writeAPIKey = "0YPWA8CPC9W4Z3OY";
+const int channelID = 900012; // your channel id
+String writeAPIKey = "0YPWA8CPC9W4Z3OY"; //your API KEY
 const char* server = "api.thingspeak.com";
 const int postingInterval = 10 * 1000;
 int rate[10];
