@@ -38,6 +38,3 @@ RUN the CODE...
 
 if you want to monitor it on the smartphone then download pocket IOT app from playstore,copy the channel ID and API key from thingsspeak channel that we created earlier, paste it there and you can see the graph and your results.
 
-
-any issues please feel free to ping...
-
